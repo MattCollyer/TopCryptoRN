@@ -3,6 +3,7 @@ React Native practice app for me.
 
 Hello! It is working (on ios. Haven't tried android). It is very very basic!
 
+`npm start`
 Screenshots:
 
 (yes it scrolls)
